@@ -6,7 +6,7 @@ function circleAreaPerimeter(radius) {
             return (Math.PI * radius * radius).toFixed(4);
         },
         perimeter() {
-            return (2 * Math.Pl * radius).toFixed(4)
+            return (2 * Math.PI * radius).toFixed(4)
         }
     };
 };
